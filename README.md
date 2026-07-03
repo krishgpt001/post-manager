@@ -32,6 +32,11 @@ npm run preview
 ## Notes
 - The app stores posts in `localStorage` under the `posts` key. Seed data is present on first load.
 - Dark mode preference is persisted to `localStorage` (key `pm-dark`).
+## Video Recording
+https://github.com/user-attachments/assets/96afe99c-90a3-4e37-91ac-99dd6b64a13a
+
+
+
 
 
 
