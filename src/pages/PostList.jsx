@@ -1,4 +1,4 @@
-import useLocalStorage from '../hooks/useLocalStorage'
+import useLocalStorage from '../hooks/UseLocalStorage'
 import PostCard from '../components/PostCard'
 import { useState } from 'react'
 import Pagination from '../components/Pagination'
