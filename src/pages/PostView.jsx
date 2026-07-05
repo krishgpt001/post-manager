@@ -1,4 +1,4 @@
-import useLocalStorage from "../hooks/useLocalStorage"
+import useLocalStorage from "../hooks/UseLocalStorage"
 import { useNavigate, useParams } from "react-router-dom"
 
 function PostView () {
